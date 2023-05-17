@@ -10,7 +10,7 @@
 6. [参考资料 Reference](#Reference)
 
 ## 权重下载
-YOLOX_s.pth https://github.com/bubbliiiing/yolox-pytorch/releases/download/v1.0/yolox_s.pth
+YOLOX_s.pth https://github.com/Hickey-Curry/CVYOLOX/releases/tag/V1.0/yolox_s.pth
 
 ## 所需环境
 pytorch==1.2.0
