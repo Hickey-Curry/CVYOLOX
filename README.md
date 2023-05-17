@@ -2,14 +2,14 @@
 ---
 
 ## Directory
-1. [Data and weight download](#Data and weight download)
+1. [Predownload](#Predownload)
 2. [Environment](#Environment)
 3. [How2train](#How2train)
 4. [How2predict](#How2predict)
 5. [How2eval](#How2eval)
 6. [Reference](#Reference)
 
-## Data and weight download
+## Predownload
 Make a complete CV dataset download address：https://github.com/Hickey-Curry/CVYOLOX/releases/download/data/VOCdevkit.zip   \n
 YOLOX_s.pth Download address： https://github.com/Hickey-Curry/CVYOLOX/releases/download/V1.0/yolox_s.pth \n
 After the dataset is downloaded, it is extracted in the root directory, and the weight is downloaded and placed in the model_data directory
