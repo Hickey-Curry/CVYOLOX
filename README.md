@@ -11,18 +11,19 @@
 
 ## Data and weight download
 Make a complete CV dataset download address：https://github.com/Hickey-Curry/CVYOLOX/releases/download/data/VOCdevkit.zip   \n
-YOLOX_s.pth Download address： https://github.com/Hickey-Curry/CVYOLOX/releases/download/V1.0/yolox_s.pth
+YOLOX_s.pth Download address： https://github.com/Hickey-Curry/CVYOLOX/releases/download/V1.0/yolox_s.pth \n
+After the dataset is downloaded, it is extracted in the root directory, and the weight is downloaded and placed in the model_data directory
 
 ## Environment
-scipy==1.2.1
-numpy==1.17.0
-matplotlib==3.1.2
-opencv_python==4.1.2.30
-torch==1.2.0
-torchvision==0.4.0
-tqdm==4.60.0
-Pillow==8.2.0
-h5py==2.10.0
+scipy==1.2.1 \n
+numpy==1.17.0 \n
+matplotlib==3.1.2 \n
+opencv_python==4.1.2.30 \n
+torch==1.2.0 \n
+torchvision==0.4.0 \n
+tqdm==4.60.0 \n
+Pillow==8.2.0 \n
+h5py==2.10.0 \n
 
 ## How2train
 ### Train your own dataset
