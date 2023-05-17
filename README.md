@@ -2,15 +2,16 @@
 ---
 
 ## Directory
-1. [权重下载 Weight download](#权重下载)
+1. [数据和权重下载 Data and weight download](#数据和权重下载)
 2. [所需环境 Environment](#所需环境)
 3. [训练步骤 How2train](#训练步骤)
 4. [预测步骤 How2predict](#预测步骤)
 5. [评估步骤 How2eval](#评估步骤)
 6. [参考资料 Reference](#Reference)
 
-## 权重下载
-YOLOX_s.pth https://github.com/Hickey-Curry/CVYOLOX/releases/tag/V1.0/yolox_s.pth
+## 数据和权重下载
+制作完善的CV数据集下载地址：https://github.com/Hickey-Curry/CVYOLOX/releases/download/data/VOCdevkit.zip
+YOLOX_s.pth 下载地址： https://github.com/Hickey-Curry/CVYOLOX/releases/download/V1.0/yolox_s.pth
 
 ## 所需环境
 pytorch==1.2.0
