@@ -10,7 +10,7 @@
 6. [Reference](#Reference)
 
 ## Data and weight download
-Make a complete CV dataset download address：https://github.com/Hickey-Curry/CVYOLOX/releases/download/data/VOCdevkit.zip
+Make a complete CV dataset download address：https://github.com/Hickey-Curry/CVYOLOX/releases/download/data/VOCdevkit.zip   \n
 YOLOX_s.pth Download address： https://github.com/Hickey-Curry/CVYOLOX/releases/download/V1.0/yolox_s.pth
 
 ## Environment
